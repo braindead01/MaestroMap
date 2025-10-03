@@ -11,7 +11,8 @@ const GOOGLE_TYPES = [
   "cultural",
   "park",
   "tourist_attraction",
-  "water_park"
+  "water_park",
+  "stadium"
 ];
 
 export default function GooglePlaces() {
